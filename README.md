@@ -2,9 +2,10 @@
 
 - Requerimentos:
 
-python
+python 3
 
 pygames
+
 
 - Instalando virtualenv e pygames
 
@@ -14,7 +15,9 @@ venv\Scripts\activate
 
 py -m pip install -U pygame
 
+
 - Executando o jogo
 
 venv\Scripts\activate
+
 py jogo.py
