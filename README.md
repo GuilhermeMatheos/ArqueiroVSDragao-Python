@@ -2,10 +2,9 @@
 
 - Requerimentos:
 
-
 python
-pygames
 
+pygames
 
 - Instalando virtualenv e pygames
 
